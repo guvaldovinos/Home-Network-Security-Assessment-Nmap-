@@ -32,5 +32,16 @@ This task simulates a common SOC Analyst responsibility — scanning a network t
 
 ---
 ## 📸 Screenshots
-<img width="1999" height="177" alt="nmap_confirmed" src="https://github.com/user-attachments/assets/516ce169-b3ea-4937-8165-971282ccbf29" />
+<img width="1999" height="494" alt="ipconfig_" src="https://github.com/user-attachments/assets/ad42036b-6532-4c02-863b-acc0887ddf1e" />
 Caption: Here we ran "nmap --version" on PowerShell to confirmed what version we of Nmap we have installed in our device. 
+<img width="1386" height="1039" alt="network_scan" src="https://github.com/user-attachments/assets/97fbd41c-7c26-4280-a82f-f018d6b33aa4" />
+
+<img width="2063" height="580" alt="Screenshot 2026-09-11 175227" src="https://github.com/user-attachments/assets/d77cfb66-5951-4bc1-9edb-70c4bdaa92d3" />
+
+<img width="967" height="178" alt="Screenshot 2026-09-12 151530" src="https://github.com/user-attachments/assets/5acf1ca8-8d80-4fce-8695-5d64a90bc7c5" />
+
+<img width="2031" height="890" alt="Screenshot 2026-09-11 175710" src="https://github.com/user-attachments/assets/f5135078-7a66-4e45-9cbc-692c384dfe8e" />
+
+<img width="1909" height="534" alt="Screenshot 2026-09-11 181812" src="https://github.com/user-attachments/assets/a1ca2f72-e99d-4d9f-afad-3ec8e3c4147c" />
+
+

@@ -32,3 +32,5 @@ This task simulates a common SOC Analyst responsibility — scanning a network t
 
 ---
 ## 📸 Screenshots
+<img width="1999" height="177" alt="nmap_confirmed" src="https://github.com/user-attachments/assets/516ce169-b3ea-4937-8165-971282ccbf29" />
+Caption: Here we ran "nmap --version" on PowerShell to confirmed what version we of Nmap we have installed in our device. 

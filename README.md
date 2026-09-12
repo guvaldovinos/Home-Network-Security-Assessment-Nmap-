@@ -56,6 +56,8 @@ Caption: Here we ran "nmap --version" on PowerShell to confirmed what version we
 udp scan
 <img width="937" height="459" alt="Screenshot 2026-09-11 200542" src="https://github.com/user-attachments/assets/44fd521e-3162-43a6-acbc-9933a8828ae2" />
 
+<img width="1149" height="1092" alt="Screenshot 2026-09-11 212517" src="https://github.com/user-attachments/assets/f9a39a6b-b422-42e8-bcb4-5f9e0a4aa0b9" />
+
 
 
 

@@ -43,5 +43,25 @@ Caption: Here we ran "nmap --version" on PowerShell to confirmed what version we
 <img width="2031" height="890" alt="Screenshot 2026-09-11 175710" src="https://github.com/user-attachments/assets/f5135078-7a66-4e45-9cbc-692c384dfe8e" />
 
 <img width="1909" height="534" alt="Screenshot 2026-09-11 181812" src="https://github.com/user-attachments/assets/a1ca2f72-e99d-4d9f-afad-3ec8e3c4147c" />
+<img width="459" height="157" alt="Screenshot 2026-09-12 152853" src="https://github.com/user-attachments/assets/3c503fa4-08d0-4f61-a885-8b85ad944a75" />
+
+<img width="2360" height="920" alt="Screenshot 2026-09-11 183412" src="https://github.com/user-attachments/assets/75bbab9a-fe3c-4dd9-87d2-0eeb3c3a7c30" />
+
+<img width="928" height="414" alt="Screenshot 2026-09-11 192443" src="https://github.com/user-attachments/assets/cce117a5-7efe-4ee4-a0f8-b47cdeac5de5" />
+
+
+<img width="1362" height="434" alt="Screenshot 2026-09-11 192619" src="https://github.com/user-attachments/assets/59be4dfb-8759-4ee9-9dd6-2d03e118327f" />
+
+<img width="836" height="261" alt="Screenshot 2026-09-11 200145" src="https://github.com/user-attachments/assets/8794d9e3-ca94-4295-a08b-4aa0f0522704" />
+udp scan
+<img width="937" height="459" alt="Screenshot 2026-09-11 200542" src="https://github.com/user-attachments/assets/44fd521e-3162-43a6-acbc-9933a8828ae2" />
+
+
+
+
+
+
+
+
 
 

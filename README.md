@@ -43,11 +43,11 @@ Caption: Performed a ping scan to find live hosts on my network
 <img width="2063" height="580" alt="Screenshot 2026-09-11 175227" src="https://github.com/user-attachments/assets/d77cfb66-5951-4bc1-9edb-70c4bdaa92d3" />
 Caption: Performed a Service/version detection scan 
 
-<img width="967" height="178" alt="Screenshot 2026-09-12 151530" src="https://github.com/user-attachments/assets/5acf1ca8-8d80-4fce-8695-5d64a90bc7c5" />
-Caption: Documented findings in an Excel sheet
-
 <img width="2031" height="890" alt="Screenshot 2026-09-11 175710" src="https://github.com/user-attachments/assets/f5135078-7a66-4e45-9cbc-692c384dfe8e" />
 Caption: Saved results on a file for reporting
+
+<img width="967" height="178" alt="Screenshot 2026-09-12 151530" src="https://github.com/user-attachments/assets/5acf1ca8-8d80-4fce-8695-5d64a90bc7c5" />
+Caption: Documented findings in an Excel sheet
 
 <img width="1909" height="534" alt="Screenshot 2026-09-11 181812" src="https://github.com/user-attachments/assets/a1ca2f72-e99d-4d9f-afad-3ec8e3c4147c" /><img width="459" height="157" alt="Screenshot 2026-09-12 152853" src="https://github.com/user-attachments/assets/3c503fa4-08d0-4f61-a885-8b85ad944a75" />
 Caption: Ran a OS detection scan & documented key information of the OS detection scan

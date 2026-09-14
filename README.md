@@ -16,24 +16,27 @@ This task simulates a common SOC Analyst responsibility — scanning a network t
 ---
 
 ## ⚙️ Steps Completed
-1. Ran a TCP scan with the `--reason` flag to identify open/closed ports and the exact response behind each classification.
-2. Ran a UDP scan to identify open, filtered, and closed UDP services.
-3. Ran a vulnerability scan using `--script vuln` against discovered open ports.
-4. Validated flagged findings using a version scan (`nmap -sV`), MAC address vendor lookup, and manual review of HTTP/HTTPS response headers.
-5. Documented findings and remediation recommendations in a structured report.
+- Ran OS detection against the target host, confirming a Linux-based OS consistent with a Fiberhome router/modem, then verified with a follow-up port/service scan to confirm no discrepancies.
+- Ran a TCP SYN scan (`-sS`) — a fast, stealthy scan technique commonly used in security assessments — and saved output for review (`-oN`).
+-  Ran a UDP scan (`-sU`) to identify open, filtered, and closed UDP services.
+- an a TCP scan with the `--reason` flag to determine the exact network response behind each port's classification.
+- Ran a vulnerability scan using `--script vuln` against discovered open ports.
+- Documented findings and remediation recommendations in a structured report.
 
 ---
 
 ## 🧩 Key Skills Demonstrated
-- Running and interpreting Nmap TCP/UDP scans
-- Understanding scan reason codes (SYN-ACK, RST, ICMP unreachable, no-response)
-- Distinguishing confirmed findings from false positives using multi-source validation
--  Documenting technical findings and remediation in a clear, structured report
+* Performing OS detection, TCP SYN scanning, UDP scanning, and vulnerability scanning with Nmap
+* Understanding scan reason codes (SYN-ACK, RST, ICMP unreachable, no-response)
+* Distinguishing confirmed findings from false positives using multi-source validation (version scan, vendor lookup, manual review)
+* Documenting technical findings and remediation steps
+
+ 
 
 ---
 ## 📸 Screenshots
 <img width="1999" height="494" alt="ipconfig_" src="https://github.com/user-attachments/assets/ad42036b-6532-4c02-863b-acc0887ddf1e" />
-Caption: Here we ran "nmap --version" on PowerShell to confirmed what version we of Nmap we have installed in our device. 
+Caption: Ran "nmap --version" on PowerShell to confirmed what version we of Nmap we have installed in our device. 
 <img width="1386" height="1039" alt="network_scan" src="https://github.com/user-attachments/assets/97fbd41c-7c26-4280-a82f-f018d6b33aa4" />
 Caption: Performed a ping scan to find live hosts on my network
 
@@ -51,18 +54,21 @@ Caption: Ran a OS detection scan & documented key information of the OS detectio
 
 <img width="2360" height="920" alt="Screenshot 2026-09-11 183412" src="https://github.com/user-attachments/assets/75bbab9a-fe3c-4dd9-87d2-0eeb3c3a7c30" />
 Caption: Ran a quick port and service scan on host
-<img width="928" height="414" alt="Screenshot 2026-09-11 192443" src="https://github.com/user-attachments/assets/cce117a5-7efe-4ee4-a0f8-b47cdeac5de5" />
-Caption: Ran a TCP SYN Scan on target ip
+<img width="928" height="414" alt="Screenshot 2026-09-11 192443" src="https://github.com/user-attachments/assets/cce117a5-7efe-4ee4-a0f8-b47cdeac5de5" /><img width="550" height="218" alt="Screenshot 2026-09-13 210953" src="https://github.com/user-attachments/assets/9fdc2ba1-5467-4965-a934-34348f9922e5" />
+
+Caption: Ran a TCP SYN Scan on target Ip & documented findings in Excel sheet
 
 
-<img width="836" height="261" alt="Screenshot 2026-09-11 200145" src="https://github.com/user-attachments/assets/8794d9e3-ca94-4295-a08b-4aa0f0522704" />
-Caption: Ran a UDP Scan on target ip
+<img width="836" height="261" alt="Screenshot 2026-09-11 200145" src="https://github.com/user-attachments/assets/8794d9e3-ca94-4295-a08b-4aa0f0522704" /><img width="554" height="59" alt="Screenshot 2026-09-13 210638" src="https://github.com/user-attachments/assets/18b942e0-3634-4968-a616-b4173f6601e1" />
+Caption: Ran a UDP Scan on target ip & doucmented findings in Excel sheet
+
 <img width="937" height="459" alt="Screenshot 2026-09-11 200542" src="https://github.com/user-attachments/assets/44fd521e-3162-43a6-acbc-9933a8828ae2" />
 
 
 <img width="1149" height="1092" alt="Screenshot 2026-09-11 212517" src="https://github.com/user-attachments/assets/f9a39a6b-b422-42e8-bcb4-5f9e0a4aa0b9" />
 Caption: Performed a lightweight vulnerability scan against target ip
-
+<img width="697" height="501" alt="Screenshot 2026-09-13 211745" src="https://github.com/user-attachments/assets/aea37429-246b-4d8f-b70d-6fabf366af23" />
+Caption: Documented vulnerability and remediation steps in Excel sheet
 
 
 

@@ -35,29 +35,33 @@ This task simulates a common SOC Analyst responsibility — scanning a network t
 <img width="1999" height="494" alt="ipconfig_" src="https://github.com/user-attachments/assets/ad42036b-6532-4c02-863b-acc0887ddf1e" />
 Caption: Here we ran "nmap --version" on PowerShell to confirmed what version we of Nmap we have installed in our device. 
 <img width="1386" height="1039" alt="network_scan" src="https://github.com/user-attachments/assets/97fbd41c-7c26-4280-a82f-f018d6b33aa4" />
+Caption: Performed a ping scan to find live hosts on my network
 
 <img width="2063" height="580" alt="Screenshot 2026-09-11 175227" src="https://github.com/user-attachments/assets/d77cfb66-5951-4bc1-9edb-70c4bdaa92d3" />
+Caption: Performed a Service/version detection scan 
 
 <img width="967" height="178" alt="Screenshot 2026-09-12 151530" src="https://github.com/user-attachments/assets/5acf1ca8-8d80-4fce-8695-5d64a90bc7c5" />
+Caption: Documented findings in an Excel sheet
 
 <img width="2031" height="890" alt="Screenshot 2026-09-11 175710" src="https://github.com/user-attachments/assets/f5135078-7a66-4e45-9cbc-692c384dfe8e" />
+Caption: Saved results on a file for reporting
 
-<img width="1909" height="534" alt="Screenshot 2026-09-11 181812" src="https://github.com/user-attachments/assets/a1ca2f72-e99d-4d9f-afad-3ec8e3c4147c" />
-<img width="459" height="157" alt="Screenshot 2026-09-12 152853" src="https://github.com/user-attachments/assets/3c503fa4-08d0-4f61-a885-8b85ad944a75" />
+<img width="1909" height="534" alt="Screenshot 2026-09-11 181812" src="https://github.com/user-attachments/assets/a1ca2f72-e99d-4d9f-afad-3ec8e3c4147c" /><img width="459" height="157" alt="Screenshot 2026-09-12 152853" src="https://github.com/user-attachments/assets/3c503fa4-08d0-4f61-a885-8b85ad944a75" />
+Caption: Ran a OS detection scan & documented key information of the OS detection scan
 
 <img width="2360" height="920" alt="Screenshot 2026-09-11 183412" src="https://github.com/user-attachments/assets/75bbab9a-fe3c-4dd9-87d2-0eeb3c3a7c30" />
-
+Caption: Ran a quick port and service scan on host
 <img width="928" height="414" alt="Screenshot 2026-09-11 192443" src="https://github.com/user-attachments/assets/cce117a5-7efe-4ee4-a0f8-b47cdeac5de5" />
+Caption: Ran a TCP SYN Scan on target ip
 
-
-<img width="1362" height="434" alt="Screenshot 2026-09-11 192619" src="https://github.com/user-attachments/assets/59be4dfb-8759-4ee9-9dd6-2d03e118327f" />
 
 <img width="836" height="261" alt="Screenshot 2026-09-11 200145" src="https://github.com/user-attachments/assets/8794d9e3-ca94-4295-a08b-4aa0f0522704" />
-udp scan
+Caption: Ran a UDP Scan on target ip
 <img width="937" height="459" alt="Screenshot 2026-09-11 200542" src="https://github.com/user-attachments/assets/44fd521e-3162-43a6-acbc-9933a8828ae2" />
 
-<img width="1149" height="1092" alt="Screenshot 2026-09-11 212517" src="https://github.com/user-attachments/assets/f9a39a6b-b422-42e8-bcb4-5f9e0a4aa0b9" />
 
+<img width="1149" height="1092" alt="Screenshot 2026-09-11 212517" src="https://github.com/user-attachments/assets/f9a39a6b-b422-42e8-bcb4-5f9e0a4aa0b9" />
+Caption: Performed a lightweight vulnerability scan against target ip
 
 
 
